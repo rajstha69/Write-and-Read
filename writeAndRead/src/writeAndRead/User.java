@@ -3,7 +3,7 @@ package writeAndRead;
 
 public class User {
 	
-
+//this is the change i can make
 	
 	
 	private String fname, lastName, accountNo, cardNo, zipCode;
